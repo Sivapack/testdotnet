@@ -1,3 +1,4 @@
 welcome to dotnet team and program ..
 
 New code and Sprint to be complete..
+Sprint TAsk is partially Completed..Commit to Attend the Sprint meeting..
